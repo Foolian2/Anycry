@@ -38,7 +38,7 @@ if you read this, star the repo
 ✔ Does not require a Internet connection
 ✔ Encrypts/Decrypts every possible filetype
 ✔ Encrypts/Decrypts Folders
-✔ Impossible to decrypt without masterpassword
+✔ almost impossible to decrypt without masterpassword
 ✔ Masterpassword guesser with checker
 
 ```
