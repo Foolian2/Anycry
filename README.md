@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Anycry is a script that allows you to encrypt/decrypt files with a masterpassword.
+  Anycry is a script that allows you to encrypt/decrypt files with a masterpassword. edit: ass code, was a good pratice tho
 </p>
 
 <p align="center"> 
